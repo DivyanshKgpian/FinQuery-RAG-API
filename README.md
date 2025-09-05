@@ -1,4 +1,4 @@
-# FinQuery-RAG-API
+# FinQuery
 This project provides a high-performance Retrieval-Augmented Generation (RAG) API built with FastAPI, specifically designed for the financial analysis domain. It ingests dense financial reports in PDF or DOCX format and delivers precise, explainable answers to complex analyst queries in real-time.   
 The core of the system is a sophisticated retrieval pipeline featuring the SPLADE sparse retriever and a fine-tuned Mixtral 8x7B model for accurate, context-aware answer generation.  
 
